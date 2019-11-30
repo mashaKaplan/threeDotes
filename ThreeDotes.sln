@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDotes", "ThreeDotes\ThreeDotes.csproj", "{B459CC1C-66DA-4A8F-BC89-2D15DA2B3B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B459CC1C-66DA-4A8F-BC89-2D15DA2B3B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B459CC1C-66DA-4A8F-BC89-2D15DA2B3B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B459CC1C-66DA-4A8F-BC89-2D15DA2B3B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B459CC1C-66DA-4A8F-BC89-2D15DA2B3B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A297C1-6164-48CC-8919-0F0955937BFD}
+	EndGlobalSection
+EndGlobal
